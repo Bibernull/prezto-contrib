@@ -6,7 +6,7 @@
 	url = https://github.com/miekg/lean.git
 [submodule "contrib-prompt/external/spaceship"]
 	path = contrib-prompt/external/spaceship
-	url = https://github.com/denysdovhan/spaceship-zsh-theme.git
+	url = git@github.com:spaceship-prompt/spaceship-prompt.git
 [submodule "alias-tips/external"]
 	path = alias-tips/external
 	url = https://github.com/djui/alias-tips.git
@@ -19,3 +19,9 @@
 [submodule "fzy/external"]
 	path = fzy/external
 	url = https://github.com/aperezdc/zsh-fzy.git
+[submodule "fzf-tab"]
+	path = fzf-tab
+	url = https://github.com/Aloxaf/fzf-tab
+[submodule "fzf-tab-source"]
+	path = fzf-tab-source
+	url = https://github.com/Bibernull/fzf-tab-source
