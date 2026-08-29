@@ -6,16 +6,7 @@
 	url = https://github.com/miekg/lean.git
 [submodule "contrib-prompt/external/spaceship"]
 	path = contrib-prompt/external/spaceship
-	url = git@github.com:spaceship-prompt/spaceship-prompt.git
-[submodule "alias-tips/external"]
-	path = alias-tips/external
-	url = https://github.com/djui/alias-tips.git
-[submodule "enhancd/external"]
-	path = enhancd/external
-	url = https://github.com/b4b4r07/enhancd.git
-[submodule "tmux-xpanes/external"]
-	path = tmux-xpanes/external
-	url = https://github.com/greymd/tmux-xpanes.git
+	url = https://github.com/spaceship-prompt/spaceship-prompt.git
 [submodule "fzy/external"]
 	path = fzy/external
 	url = https://github.com/aperezdc/zsh-fzy.git
